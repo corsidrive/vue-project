@@ -25,6 +25,8 @@
    </div>
 </template>
 <script>
+import jsPDF from 'jspdf'
+
 import Vue3Html2pdf from 'vue3-html2pdf'
 
 export default {
